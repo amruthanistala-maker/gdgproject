@@ -1,0 +1,11 @@
+{
+  "name": "Hands2Haven - Artisan Craft Marketplace & AI GI Authenticator",
+  "description": "Hands2Haven connects consumers directly to certified Indian artisan villages including Etikoppaka, Kondapalli, Srikalahasti, and Nimmalakunta with continuous audio voice search, live camera scanning, and cooperative order bookings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
